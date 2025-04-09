@@ -57,13 +57,31 @@ chardet
 ```
 
 ## Usage
+1. Clone the repository:
+```bash
+git clone https://github.com/Tertho1/Text-Searcher-From-Files.git
+cd Text-Searcher-From-Files
+```
 
-1. Run the script:
+2. Create and activate a virtual environment (recommended):
+```bash
+# On Windows
+python -m venv venv
+.\venv\Scripts\activate
 
+# On Linux/macOS
+python3 -m venv venv
+source venv/bin/activate
+```
+
+3. Install required packages:
+```bash
+pip install -r requirements.txt
+```
+4. Run the script:
 ```bash
 python main.py
 ```
-
 Or
 
 ```bash
