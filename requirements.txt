@@ -1,0 +1,10 @@
+PyMuPDF 
+pdf2image 
+pillow 
+opencv-python 
+python-docx 
+python-pptx 
+openpyxl 
+pyinstaller
+chardet
+customtkinter
